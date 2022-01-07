@@ -2,12 +2,10 @@
 layout: default
 ---
 
-# Anthony Huber
 
+{% include 01-name.md %}
 <br>
-
 {% include 02-image.md %}
-
 <br>
 
 {% include 03-links.md %}
@@ -19,3 +17,5 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+
